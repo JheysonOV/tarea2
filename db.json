@@ -1,4 +1,5 @@
-[
+{
+    "Usuario"[
     {
       "usuario": "jheyson",
       "Password": "12345"
@@ -7,4 +8,5 @@
       "usuario": "Juan",
       "Password": ""
     }
-  ]
+    ]
+}
